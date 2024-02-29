@@ -4,7 +4,7 @@ ssc install schemepack, replace
 set scheme black_w3d
 *graph set window fontface "Arial Narrow"
 help shell
-! echo # stata_project  >> README.md
+! echo # Cashflow-Calculation  >> README.md
 ! git init
 ! git add README.md
 ! git commit -m 'my first upload'
